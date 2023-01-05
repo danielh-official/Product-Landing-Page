@@ -1,3 +1,3 @@
-# Technical Documentation Page
+# Product Landing Page
 
-A simple technical documentation page inspired by freeCodeCamp's Responsive Web Design certificate.
+A simple product landing page inspired by freeCodeCamp's Responsive Web Design certificate.
